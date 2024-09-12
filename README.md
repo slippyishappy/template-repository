@@ -34,10 +34,10 @@ npm install
 
 This template comes with some pre-configured npm scripts to streamline your development process:
 
-```npm run test```: Placeholder for running tests (currently not implemented)
-```npm run build```: Builds the project for production using webpack.prod.js
-```npm run dev```: Starts the webpack dev server for development using webpack.dev.js
-```npm run deploy```: Deploys the dist folder to GitHub Pages
+- ```npm run test```: Placeholder for running tests (currently not implemented)
+- ```npm run build```: Builds the project for production using webpack.prod.js
+- ```npm run dev```: Starts the webpack dev server for development using webpack.dev.js
+- ```npm run deploy```: Deploys the dist folder to GitHub Pages
 
 ## Deployment
 
